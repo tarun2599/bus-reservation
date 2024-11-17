@@ -22,7 +22,7 @@ A Django REST API for managing bus reservations. This system allows users to sea
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/tarun2599/bus-reservation.git
 cd bus-reservation-system
 ```
 
