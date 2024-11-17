@@ -1,0 +1,362 @@
+[
+    {
+        "model": "bus_reservation.bus",
+        "pk": 1,
+        "fields": {
+            "company_name": "Volvo India",
+            "bus_number": "V123",
+            "source": "Delhi",
+            "destination": "Mumbai",
+            "start_time": "06:00:00",
+            "end_time": "18:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 2,
+        "fields": {
+            "company_name": "KSRTC",
+            "bus_number": "KS001",
+            "source": "Bangalore",
+            "destination": "Chennai",
+            "start_time": "08:00:00",
+            "end_time": "14:00:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 40
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 3,
+        "fields": {
+            "company_name": "Neeta Travels",
+            "bus_number": "N567",
+            "source": "Pune",
+            "destination": "Goa",
+            "start_time": "07:30:00",
+            "end_time": "13:30:00",
+            "frequency": [
+                "Monday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 45
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 4,
+        "fields": {
+            "company_name": "SRS Travels",
+            "bus_number": "S789",
+            "source": "Hyderabad",
+            "destination": "Bangalore",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 55
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 5,
+        "fields": {
+            "company_name": "VRL Travels",
+            "bus_number": "V987",
+            "source": "Chennai",
+            "destination": "Madurai",
+            "start_time": "06:00:00",
+            "end_time": "10:00:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 6,
+        "fields": {
+            "company_name": "KPN Travels",
+            "bus_number": "K456",
+            "source": "Coimbatore",
+            "destination": "Chennai",
+            "start_time": "11:00:00",
+            "end_time": "15:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 40
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 7,
+        "fields": {
+            "company_name": "KSRTC",
+            "bus_number": "KS002",
+            "source": "Trivandrum",
+            "destination": "Kochi",
+            "start_time": "06:30:00",
+            "end_time": "09:30:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Sunday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 8,
+        "fields": {
+            "company_name": "Volvo India",
+            "bus_number": "V456",
+            "source": "Delhi",
+            "destination": "Agra",
+            "start_time": "07:00:00",
+            "end_time": "09:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 45
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 9,
+        "fields": {
+            "company_name": "Neeta Travels",
+            "bus_number": "N123",
+            "source": "Mumbai",
+            "destination": "Pune",
+            "start_time": "05:30:00",
+            "end_time": "09:30:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Saturday"
+            ],
+            "capacity": 40
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 10,
+        "fields": {
+            "company_name": "SRS Travels",
+            "bus_number": "S112",
+            "source": "Hyderabad",
+            "destination": "Chennai",
+            "start_time": "10:00:00",
+            "end_time": "18:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 55
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 11,
+        "fields": {
+            "company_name": "VRL Travels",
+            "bus_number": "V654",
+            "source": "Bangalore",
+            "destination": "Goa",
+            "start_time": "06:00:00",
+            "end_time": "14:00:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Sunday"
+            ],
+            "capacity": 60
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 12,
+        "fields": {
+            "company_name": "KPN Travels",
+            "bus_number": "K123",
+            "source": "Madurai",
+            "destination": "Chennai",
+            "start_time": "08:00:00",
+            "end_time": "11:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Saturday"
+            ],
+            "capacity": 45
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 13,
+        "fields": {
+            "company_name": "KSRTC",
+            "bus_number": "KS003",
+            "source": "Bangalore",
+            "destination": "Mysore",
+            "start_time": "09:00:00",
+            "end_time": "11:30:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Sunday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 14,
+        "fields": {
+            "company_name": "Volvo India",
+            "bus_number": "V333",
+            "source": "Delhi",
+            "destination": "Jaipur",
+            "start_time": "06:30:00",
+            "end_time": "08:30:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 45
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 15,
+        "fields": {
+            "company_name": "Neeta Travels",
+            "bus_number": "N987",
+            "source": "Mumbai",
+            "destination": "Goa",
+            "start_time": "08:30:00",
+            "end_time": "16:30:00",
+            "frequency": [
+                "Monday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 16,
+        "fields": {
+            "company_name": "SRS Travels",
+            "bus_number": "S333",
+            "source": "Hyderabad",
+            "destination": "Goa",
+            "start_time": "10:30:00",
+            "end_time": "16:30:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Sunday"
+            ],
+            "capacity": 60
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 17,
+        "fields": {
+            "company_name": "VRL Travels",
+            "bus_number": "V222",
+            "source": "Bangalore",
+            "destination": "Hyderabad",
+            "start_time": "07:00:00",
+            "end_time": "12:00:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 55
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 18,
+        "fields": {
+            "company_name": "KPN Travels",
+            "bus_number": "K789",
+            "source": "Chennai",
+            "destination": "Coimbatore",
+            "start_time": "11:00:00",
+            "end_time": "15:00:00",
+            "frequency": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 50
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 19,
+        "fields": {
+            "company_name": "KSRTC",
+            "bus_number": "KS004",
+            "source": "Mysore",
+            "destination": "Bangalore",
+            "start_time": "08:30:00",
+            "end_time": "10:30:00",
+            "frequency": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "capacity": 45
+        }
+    },
+    {
+        "model": "bus_reservation.bus",
+        "pk": 20,
+        "fields": {
+            "company_name": "Volvo India",
+            "bus_number": "V555",
+            "source": "Mumbai",
+            "destination": "Pune",
+            "start_time": "06:45:00",
+            "end_time": "09:00:00",
+            "frequency": [
+                "Monday",
+                "Thursday",
+                "Saturday"
+            ],
+            "capacity": 60
+        }
+    }
+]

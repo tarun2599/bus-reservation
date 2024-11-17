@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "62cbd1ff-0a45-4a58-9f05-a2e57c851854",
+		"name": "Newton School Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30001369"
+	},
+	"item": [
+		{
+			"name": "Search Buses",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/api/reservations/?user_name=Tarun Lakhmani",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"reservations",
+						""
+					],
+					"query": [
+						{
+							"key": "user_name",
+							"value": "Tarun Lakhmani"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
