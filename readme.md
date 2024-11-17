@@ -56,7 +56,6 @@ python manage.py runserver
 API documentation is available via Swagger UI at:
 
 Swagger UI: http://localhost:8000/swagger/
-ReDoc: http://localhost:8000/redoc/
 
 ## 8. Postman Collection
 
