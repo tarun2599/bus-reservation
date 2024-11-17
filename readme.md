@@ -61,4 +61,4 @@ Swagger UI: http://localhost:8000/swagger/
 
 You can download the Postman collection to test the API endpoints.
 
-[Download Postman Collection](./postman/bus_reservation_collection.json)
+[Download Postman Collection](https://elements.getpostman.com/redirect?entityId=30001369-62cbd1ff-0a45-4a58-9f05-a2e57c851854&entityType=collection)
