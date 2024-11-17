@@ -12,7 +12,7 @@ A Django REST API for managing bus reservations. This system allows users to sea
 ## Tech Stack
 
 - Python 3.10
-- Django 5.0
+- Django 4.2.7
 - Django REST Framework 3.14
 - SQLite Database
 - drf-yasg for API documentation
