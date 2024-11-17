@@ -5,7 +5,6 @@ A Django REST API for managing bus reservations. This system allows users to sea
 ## Features
 
 - Search buses based on source, destination, and date
-- Real-time seat availability checking
 - Seat reservation system
 - View reservation history
 - Swagger API documentation
@@ -23,7 +22,7 @@ A Django REST API for managing bus reservations. This system allows users to sea
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/tarun2599/bus-reservation.git
-cd bus-reservation-system
+cd bus-reservation
 ```
 
 ### 2. Create and activate virtual environment
